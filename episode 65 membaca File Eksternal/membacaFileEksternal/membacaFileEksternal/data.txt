@@ -1,0 +1,10 @@
+ini adalah file eksternal.
+dan ini adalah baris ke-dua.
+
+data
+no	Nama
+1	Randy
+2	Ramadhan
+3	Ucup
+4	Mario
+5	Sandra
