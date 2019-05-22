@@ -1,7 +1,6 @@
 #include <iostream>
-
-#define FOO "foo Lama"
-
+#include "foo.h"
+/*
 // ifdef
 #ifdef FOO
 #define TEST_FOO "FOO ada"
@@ -13,6 +12,7 @@
 #ifndef FOO
 #define FOO "Foo Baru"
 #endif // !FOO
+*/
 
 
 // pragma once
