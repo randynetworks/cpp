@@ -1,5 +1,6 @@
 #include <iostream>
 #include "foo.h"
+#include "bar.h"
 /*
 // ifdef
 #ifdef FOO
