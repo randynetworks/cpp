@@ -10,6 +10,17 @@
 #endif // FOO
 
 // ifndef
+#ifndef FOO
+#define FOO "Foo Baru"
+#endif // !FOO
 
 
 // pragma once
+
+using namespace std;
+
+int main() {
+	cout << FOO << endl;
+	cin.get();
+	return 0;
+}
