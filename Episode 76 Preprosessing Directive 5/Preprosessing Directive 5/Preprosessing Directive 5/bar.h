@@ -2,7 +2,4 @@
 
 // agar tidak error, harus menggunakan ifdef
 #include "bersama.h"
-#ifdef FOO
-#else
-#define FOO "Ini adalah FOO dalam bar.h
-#endif // FOO
+

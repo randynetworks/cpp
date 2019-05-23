@@ -1,1 +1,4 @@
-#define FOO "Ini adalah FOO bersama.h"
+
+struct mahasiswa{
+	int NIM;
+};

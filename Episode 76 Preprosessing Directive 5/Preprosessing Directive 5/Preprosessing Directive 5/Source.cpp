@@ -22,7 +22,9 @@
 using namespace std;
 
 int main() {
-	cout << FOO << endl;
+	mahasiswa mahasiswa;
+	mahasiswa.NIM = 10;
+	cout << mahasiswa.NIM << endl;
 	cin.get();
 	return 0;
 }
