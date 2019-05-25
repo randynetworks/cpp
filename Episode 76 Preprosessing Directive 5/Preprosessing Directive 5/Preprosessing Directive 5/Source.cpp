@@ -1,7 +1,7 @@
 #include <iostream>
 #include "bersama.h"
-#include "foo.h"
-#include "bar.h"
+//#include "foo.h"
+//#include "bar.h"
 /*
 // ifdef
 #ifdef FOO
