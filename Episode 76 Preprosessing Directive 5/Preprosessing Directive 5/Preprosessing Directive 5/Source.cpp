@@ -1,7 +1,8 @@
 #include <iostream>
-
-#define FOO "foo Lama"
-
+#include "bersama.h"
+//#include "foo.h"
+//#include "bar.h"
+/*
 // ifdef
 #ifdef FOO
 #define TEST_FOO "FOO ada"
@@ -13,6 +14,7 @@
 #ifndef FOO
 #define FOO "Foo Baru"
 #endif // !FOO
+*/
 
 
 // pragma once
@@ -20,7 +22,9 @@
 using namespace std;
 
 int main() {
-	cout << FOO << endl;
+	mahasiswa mahasiswa;
+	mahasiswa.NIM = 10;
+	cout << mahasiswa.NIM << endl;
 	cin.get();
 	return 0;
 }
